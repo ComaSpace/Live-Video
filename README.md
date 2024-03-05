@@ -13,7 +13,7 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://front-end-by-rimantas.github.io/49-grup-live-video/
+Site published at: https://github.com/ComaSpace/Live-Video/
 
 Design: [Live video](https://dribbble.com/shots/4957408-Live-video-illustration/attachments/1111394?mode=media)
 
@@ -47,7 +47,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
     ```sh
-    git clone https://github.com/front-end-by-rimantas/49-grupe-live-video.git
+    git clone https://github.com/ComaSpace/Live-Video.git
     ```
 2. Install NPM packages
     ```sh
@@ -68,7 +68,7 @@ There is no tests for this project.
 
 ## 🎅 Authors
 
-Rimantas: [Github](https://github.com/belauzas)
+Rolandas: [Github](https://github.com/ComaSpace)
 
 ## ⚠️ License
 
