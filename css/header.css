@@ -1,5 +1,4 @@
 .logo {
-    float: left;
     height: 40px;
 }
 
@@ -16,4 +15,7 @@
 
 .link:hover {
     background-color: red;
+}
+.link:focus {
+    background-color: green;
 }
